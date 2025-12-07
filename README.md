@@ -1,4 +1,3 @@
-```markdown
 # ASTC Decoder Pro
 
 ![ASTC](https://img.shields.io/badge/Format-ASTC-blue)
@@ -45,4 +44,3 @@ Experience the most efficient way to work with Free Fire ASTC textures. Whether 
 This tool is designed exclusively for educational and research purposes. Always respect the game's terms of service and the intellectual property rights of the original developers.
 
 **Developed with 💻 by LK‑TEAM**
-```
